@@ -29,7 +29,7 @@ I'm a passionate software developer specializing in [your specialties, e.g., "fu
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/harsshadpawar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=radical"/>
 </a>
